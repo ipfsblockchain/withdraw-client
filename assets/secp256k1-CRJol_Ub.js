@@ -1,0 +1,1 @@
+import{on as e}from"./vendor-Dqx7qLpc.js";export{e as secp256k1};

@@ -1,0 +1,1 @@
+import"./react-vendor-DmNtXn_c.js";import{N as e}from"./vendor-Dqx7qLpc.js";export{e as PhIdentificationCard};

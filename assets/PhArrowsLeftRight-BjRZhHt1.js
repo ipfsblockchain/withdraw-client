@@ -1,1 +1,0 @@
-import"./react-vendor-DmNtXn_c.js";import{$ as e}from"./vendor-TZYcPODb.js";export{e as PhArrowsLeftRight};
